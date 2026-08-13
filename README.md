@@ -1,17 +1,17 @@
-# 📚 RAG Document Assistant
+#  RAG Document Assistant
 
 An AI-powered document question-answering application using
 Retrieval-Augmented Generation (RAG).
 
-## ✨ Features
+##  Features
 
-- 📄 Upload your own PDF
-- 🔍 Retrieve relevant information from the document
-- 🤖 Ask questions about the uploaded document
-- 💬 Get AI-generated answers
-- 🔐 Answers are based only on the provided document
+-  Upload your own PDF
+-  Retrieve relevant information from the document
+-  Ask questions about the uploaded document
+-  Get AI-generated answers
+-  Answers are based only on the provided document
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - Python
 - Streamlit
@@ -20,10 +20,3 @@ Retrieval-Augmented Generation (RAG).
 - HuggingFace Embeddings
 - ChromaDB
 
-## 🚀 How to Run
-
-### 1. Clone the repository
-
-```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
-cd RAG-Document-Assistant
